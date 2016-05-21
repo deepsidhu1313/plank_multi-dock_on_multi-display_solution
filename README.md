@@ -15,7 +15,7 @@ Before Using the script first follow these steps to create copy of dock for exte
 
 How to use script:
 
-1. Save the script into `/usr/bin/` and give exection permissions to it. (May require superuser or sudo permissions)
+1. Save the script into `/usr/bin/` and give execution permissions to it. (May require superuser or sudo permissions)
 2. Add the script to `Startup Applications`. (Remove plank from startup if already there, however this script will kill any other instances of plank, but why to start and kill unnecassarily so remove `plank` if its already in startup).
 3. Enjoy !!! 
 
