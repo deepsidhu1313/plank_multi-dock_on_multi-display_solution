@@ -1,5 +1,5 @@
 # plank_multi-dock_on_multi-display_solution
-Just a solution for Linux Based system using Plank dock, to enable/disable docks when connect/disconnect external display.
+Just a solution for Linux Based systems which are using Plank dock, to enable/disable docks when connect/disconnect external display.
 
 Tested version= 0.11.1 (plank) on Ubuntu Gnome (16.04)  
 
